@@ -3,6 +3,6 @@
  # Practice in pyspark  
  using walmart_stock.csv file
  # Tools :
- Dataframes 
+ Dataframes //
  pyspark sql functions
  
