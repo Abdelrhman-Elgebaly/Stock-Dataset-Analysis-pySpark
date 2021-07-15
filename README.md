@@ -2,7 +2,7 @@
 
  # Practice in pyspark  
  using walmart_stock.csv file
- #Tools :
+ # Tools :
  Dataframes 
  pyspark sql functions
  
